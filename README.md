@@ -16,3 +16,4 @@ e gestão de leads do Programa Piloto.
 
 ## Equipe
 *(a ser preenchido pela equipe)*
+André Luís - Desenvolvedor Back-End - [GitHub](https://github.com/andretanuki) | [LinkedIn](https://www.linkedin.com/in/andretanuki/)
